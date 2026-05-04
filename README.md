@@ -94,16 +94,8 @@ Voice AI interaction system
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ripper-del&show_icons=true&hide_title=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripper-del&layout=compact&cache_seconds=1800" />
-</p>
-
----
-
 ## Contacts
 
 Telegram: @Ripper_00
+
 Email: plesu933@gmail.com
