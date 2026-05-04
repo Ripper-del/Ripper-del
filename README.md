@@ -1,4 +1,4 @@
-# Andrey Armlet
+# Andrey 
 
 Backend / Fullstack Developer
 
@@ -16,38 +16,37 @@ Other: REST API, Auth (JWT), RBAC, AI integrations
 
 ## Projects
 
-### Facebook Ad Scraper
+### [Facebook Ad Scraper](https://github.com/Ripper-del/facebook-ad-scraper)
 
 Ad scraping tool
 
 * Python
 * Data extraction / automation
 
-### Deadline Tracker Bot
+### [Deadline Tracker Bot](https://github.com/Ripper-del/deadline-tracker-bot)
 
 Telegram bot for tracking deadlines
 
 * Notifications
 * Automation
 
-### QA Platform (Next.js + NestJS)
+### QA Platform
 
 Fullstack Q&A system
 
-* Frontend: Next.js
-* Backend: NestJS
-* API integration
+* [Frontend (Next.js)](https://github.com/Ripper-del/nextjs-qa-platform)
+* [Backend (NestJS)](https://github.com/Ripper-del/nestjs-qa-platform)
 
 ---
 
-### FastAPI Event Booking
+### [FastAPI Event Booking](https://github.com/Ripper-del/fastapi-event-booking)
 
 Event booking backend
 
 * FastAPI
 * Clean API design
 
-### NodeJS Bookshop Ecommerce
+### [NodeJS Bookshop Ecommerce](https://github.com/Ripper-del/nodejs-bookshop-ecommerce)
 
 Backend for ecommerce system
 
@@ -55,28 +54,28 @@ Backend for ecommerce system
 * Products / Orders
 * REST API
 
-### Emotion Detection API
+### [Emotion Detection API](https://github.com/Ripper-del/emotion-detection-api)
 
 Emotion recognition service
 
 * Python API
 * ML integration
 
-### Django Course Assessment
+### [Django Course Assessment](https://github.com/Ripper-del/django-course-assessment)
 
 Course evaluation platform
 
 * Backend logic
 * Data processing
 
-### Form Management System
+### [Form Management System](https://github.com/Ripper-del/form-management-system)
 
 Java-based system for managing surveys and forms
 
 * Layered architecture
 * CRUD operations
 
-### Babelfish Voice AI
+### [Babelfish Voice AI](https://github.com/Ripper-del/babelfish-voice-ai)
 
 Voice AI interaction system
 
@@ -87,26 +86,24 @@ Voice AI interaction system
 
 ## AI / Automation (in progress)
 
-Working on AI-assisted development and automation tools
-
-* Prompt engineering for code generation
+* Prompt engineering for development tasks
 * AI usage in backend workflows
-* Automation of routine dev tasks
+* Automation of routine processes
 
-(Repositories will be added soon)
+(Repositories coming soon)
 
 ---
 
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ripper-del&show_icons=true&hide_title=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripper-del&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
 
 ## Contacts
 
-Telegram: @your_username
-Email: [your@email.com](mailto:your@email.com)
+Telegram: @Ripper_00
+Email: plesu933@gmail.com
